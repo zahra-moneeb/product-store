@@ -15,5 +15,5 @@ This project demonstrates practical skills in frontend development, including st
 -npm run dev
 
 ## screenshots
-https://github.com/zahra-moneeb/product-store/blob/main/1.png?raw=true
-https://github.com/zahra-moneeb/product-store/blob/main/2.png?raw=true
+https://github.com/zahra-moneeb/product-store/blob/17170e464005c8b59513aa126694d58e4dfb23b2/1.png
+https://github.com/zahra-moneeb/product-store/blob/17170e464005c8b59513aa126694d58e4dfb23b2/2.png
